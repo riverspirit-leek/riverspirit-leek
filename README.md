@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-**riverspirit-leek/riverspirit-leek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+riverspirit-leek is✨ _special_ ✨ 
 
 - 🔭 I’m currently working on ... Class Work/Projects for ITM 352
 - 🌱 I’m currently learning ... Python
@@ -12,5 +11,6 @@
 - 📫 How to reach me: ... ahtye@hawaii.edu
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Tomoatoes are considered fruits
-- :) Hobbies ... Mechnical Keyboards
+- 🌼 Hobbies ... 💻 Mechnical Keyboards, 👗 Fashion, 🏋️ Workouts, 🎮 Gaming
+- 🐉 Fav Animals: ... 🐱 Cats, 🐯 Tigers, 🐆 Leopard, 
 
